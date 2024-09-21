@@ -1,0 +1,17 @@
+{
+  "name": "mycontact_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fledson Henrique <fledsonhenrique@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
